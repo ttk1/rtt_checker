@@ -18,6 +18,7 @@ python3 client.py
 
 ```sh
 $ python3 client.py
-合計時間: 1447 ms
-平均時間: 14.47 ms
+計測回数: 100 回
+合計時間: 1448 ms
+平均時間: 14.48 ms
 ```
